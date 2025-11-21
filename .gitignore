@@ -1,0 +1,42 @@
+# Entornos virtuales
+venv/
+.env
+
+# Archivos de caché
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Modelos y datos
+*.pkl
+*.h5
+*.hdf5
+*.pt
+*.bin
+*.index
+*.data-*
+data/
+models/
+
+# Logs y bases de datos
+*.log
+*.sqlite
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
