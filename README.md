@@ -164,5 +164,5 @@ Licencia MIT.
 **Proyecto Final:** Introducción a la Inteligencia Artificial  
 **Institución:** Universidad Tecnologica de Pereira
 **Carrera:** Tecnología en Desarrollo de Software  
-**Estudiantes:** Julian Calderon, Juan Esteban Betancourt, Jennifer Hincapie
+**Estudiantes:** Julián David Calderón, Juan José Betancourt, Jennifer Hincapie
 **Noviembre 2025**
