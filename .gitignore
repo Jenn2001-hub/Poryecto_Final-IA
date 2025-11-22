@@ -18,7 +18,6 @@ __pycache__/
 *.bin
 *.index
 *.data-*
-data/
 models/
 
 # Logs y bases de datos
