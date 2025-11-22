@@ -41,7 +41,9 @@ El sistema aplica un enfoque **RAG (Retrieval-Augmented Generation)** para encon
 ## Instalación Rápida
 
 ```bash
-# 1. Crear y activar entorno
+# 0. Tener instalado python 3.10.0
+
+# 1. Crear y activar entorno, en caso de tener mas versiones de python, crear el entorno virtual para la version 3.10.0
 python -m venv venv
 .\venv\Scripts\activate  # Windows
 # source venv/bin/activate  # macOS/Linux
