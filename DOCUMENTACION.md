@@ -71,7 +71,7 @@ Este proyecto es un sistema de gestión de apuntes potenciado por IA que permite
 
 ## Requisitos del Sistema
 
-- Python 3.8+
+- Python 3.10.0 (version distinta genera errores de compatibilidad)
 - Tesseract OCR instalado en el sistema
 - API Key de Google AI (para Gemini)
 - Dependencias listadas en [requirements.txt](cci:7://file:///c:/Users/PC/Desktop/Proyecto%20IA/proyecto-ia-apuntes/requirements.txt:0:0-0:0)
