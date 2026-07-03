@@ -89,7 +89,7 @@ Este proyecto es un sistema de gestión de apuntes potenciado por IA que permite
 1. **Configuración en PowerShell**:
    ```powershell
    # Establecer la variable de entorno
-   $env:GOOGLE_API_KEY = "AIzaSyBEGvAqR1uvUipZCRSwuBoBLZ7_yG0UzlU"
+   $env:GOOGLE_API_KEY = "TU_API_KEY_AQUÍ"
 
    # Verificar que se configuró correctamente
    echo $env:GOOGLE_API_KEY
